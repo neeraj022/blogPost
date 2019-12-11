@@ -1,0 +1,61 @@
+.blog-list-wrapper {
+    width: 60%;
+    margin-left: 20%;
+}
+
+.blog-post {
+    box-shadow:  2px 2px #efefef;
+    margin: 10px 5%;
+    border: 1px solid #efefef;
+    border-radius: 5px;
+}
+
+.row {
+    width: 100%;
+    display: table;
+    margin: 5px 10px 5px 10px;
+}
+
+.row .blog-image {
+    width: 95%;
+    height: auto;
+}
+
+.column {
+    display: block;
+    float: left;
+    margin-left: 5px;
+}
+.column p {
+    margin: 5px;
+    text-align: left;
+}
+.column .degree-name {
+    color: #555;
+}
+
+.user-photo {
+    width: 50px;
+    height: auto;
+    border-radius: 50%;
+}
+
+.user-name {
+    color: rgb(133, 211, 133);
+}
+
+.description {
+    text-align: left;
+}
+
+.view-read-box p {
+    display: block;
+    float: left;
+    margin: 5px;
+    color: #555;
+}
+
+.view-read-box .views {
+    float: right;
+    padding-right: 10px;
+}
